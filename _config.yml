@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Magalí Giaroli"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/others/profile.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
