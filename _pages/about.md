@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "About Me"
 permalink: /
 comments: true
 author_profile: true
