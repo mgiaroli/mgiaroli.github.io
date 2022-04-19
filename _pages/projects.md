@@ -2,7 +2,6 @@
 layout: single
 title: "Projects"
 permalink: /Projects/
-comments: true
 author_profile: true
 classes: wide
 
@@ -13,7 +12,6 @@ feature_row0-1:
     url: "https://github.com/mgiaroli/News_classifier"
     btn_label: "Code"
     btn_class: "btn--primary"
-    [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mgiaroli/news_classifier/main/7.Streamlit_App/news_streamlit.py)
 ---
 
 {% include feature_row id="feature_row0-1" type="left" %}
