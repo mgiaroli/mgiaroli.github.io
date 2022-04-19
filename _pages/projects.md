@@ -2,6 +2,9 @@
 layout: single
 title: "Projects"
 permalink: /Projects/
+header:
+    overlay_image: /others/header.jpg
+    caption: "Header"
 comments: true
 author_profile: true
 ---
