@@ -19,3 +19,12 @@ In this project, I developed a machine learning classifier of argentine news. In
 --- 
 
 ### [BGA Games Recommender](https://github.com/mgiaroli/BGA_games_recommender)
+
+In this project, I develop a content-based recommender system for games in [Board Game Arena (BGA)](https://boardgamearena.com/). 
+Includes data collection, exploratory data analysis, creation of the recommender, and its implemention using streamlit.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mgiaroli/bga_games_recommender/main/3.Recommender/streamlit_app.py)
+
+
+
+
