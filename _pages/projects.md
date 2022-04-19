@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /Projects/
 comments: true
 author_profile: true
----
+
 
 
 feature_row0-1:
@@ -16,8 +16,6 @@ feature_row0-1:
     btn_class: "btn--primary"
     [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mgiaroli/news_classifier/main/7.Streamlit_App/news_streamlit.py)
 ---
-
-## Projects
 
 {% include feature_row id="feature_row0-1" type="left" %}
 <a name="Node.js app"></a>
