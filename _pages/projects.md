@@ -4,8 +4,7 @@ title: "Projects"
 permalink: /Projects/
 comments: true
 author_profile: true
-
-
+classes: wide
 
 feature_row0-1:
   - image_path: /others/classifier.gif
