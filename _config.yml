@@ -131,7 +131,7 @@ author:
       url: "https://www.linkedin.com/in/mgiaroli/"
     - label: "Google Scholar"
       icon: <li class="et-social-icon"><a href="https://www.academia.edu/" target="_blank" rel="noopener" title="Academia"><i class="ai ai-google-scholar ai-3x"></i></a></li>
-      
+      url: "https://scholar.google.com/citations?user=QM19jOYAAAAJ&hl=en&oi=ao"
 
 # Site Footer
 footer:
