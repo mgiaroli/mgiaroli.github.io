@@ -31,4 +31,3 @@ Includes data collection, exploratory data analysis, creation of the recommender
 
 
 
-
