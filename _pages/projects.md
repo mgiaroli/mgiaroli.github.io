@@ -25,6 +25,10 @@ Includes data collection, exploratory data analysis, creation of the recommender
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mgiaroli/bga_games_recommender/main/3.Recommender/streamlit_app.py)
 
+<p align="center">
+<img src="/others/bga.gif" width="600" height="600" />
+</p>
+
 
 
 
