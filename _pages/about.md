@@ -8,7 +8,7 @@ author_profile: true
 
 Hi! I'm Magalí. I'm a mathematician, currently interested in beginning my path in data science and machine learning. 
 
-I'm from Argentina. I enjoy math and solving problems since I participated in [Math Olympiads](https://oma.org.ar) during my school years. 
+I'm from Argentina. I've enjoyed math and solving problems since I participated in [Math Olympiads](https://oma.org.ar) during my school years. 
 In 2019 I earned a Ph.D in Mathematics from the [University of Buenos Aires](https://web.dm.uba.ar/). In addition to my research experience as a 
 doctoral student, I have several years of university teaching.
 
