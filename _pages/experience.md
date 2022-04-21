@@ -30,32 +30,32 @@ I published, in collaboration with other researchers, 4 scientific articles in h
 
 ### [Dto. de Ciencias Exactas, CBC, UBA](https://www.cbc.uba.ar/)
 
-- **Graduate teaching assistant** (Jefe de Trabajos Prácticos, Ayudante de Primera)  
+**Graduate teaching assistant** (Jefe de Trabajos Prácticos, Ayudante de Primera)  
 *2016 - 2020*
 
-- **Undergraduate Teaching Assistant** (Ayudante de segunda)  
+**Undergraduate Teaching Assistant** (Ayudante de segunda)  
 *2011 - 2016*
 
-  In both cases I taught classes to undergraduate students. I gave lectures and graded exams.
+  I taught classes to undergraduate students. I gave lectures and graded exams.
 
   Courses taught: Álgebra, Análisis, Matemática, Matemática para Biología.
 
 
 ### [Dto. de Matemática, FCEN, UBA](https://web.dm.uba.ar/)
 
-- **Graduate teaching assistant** (Jefe de Trabajos Prácticos, Ayudante de Primera)  
+**Graduate teaching assistant** (Jefe de Trabajos Prácticos, Ayudante de Primera)  
 *2015 - 2019*
 
-  I taught classes to undergraduate students, giving lectures as well as consultation classes.
-  I designed exam problems and evaluated the results.
+I taught classes to undergraduate students, giving lectures as well as consultation classes.
+I designed exam problems and evaluated the results.
 
-  Courses taught: Álgebra I, Álgebra lineal, Análisis I, Matemática 2.
+Courses taught: Álgebra I, Álgebra lineal, Análisis I, Matemática 2.
 
-- **Undergraduate Teaching Assistant** (Ayudante de segunda)  
+**Undergraduate Teaching Assistant** (Ayudante de segunda)  
 *2011 - 2015*
 
-  Mostly I helped students to solve practical exercises in consultation classes.
+Mostly I helped students to solve practical exercises in consultation classes.
 
-  Courses taught: Álgebra I, Álgebra Lineal, Análisis I,  Cálculo Avanzado, Matemática 2.
+Courses taught: Álgebra I, Álgebra Lineal, Análisis I,  Cálculo Avanzado, Matemática 2.
 
 
