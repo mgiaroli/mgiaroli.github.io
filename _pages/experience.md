@@ -20,11 +20,9 @@ I published, in collaboration with other researchers, 4 scientific articles in h
 
 [Phd thesis](/others/thesis-mgiaroli.pdf)
 
-[List of Publications in Google Scholar](https://scholar.google.com/citations?user=QM19jOYAAAAJ)
+[List of Publications in Google Scholar](https://scholar.google.com/citations?user=QM19jOYAAAAJ)  
 
-
---- 
-
+<br/>
 
 ## Teaching
 
