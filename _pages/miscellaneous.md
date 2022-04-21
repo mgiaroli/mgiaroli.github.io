@@ -7,8 +7,7 @@ author_profile: true
 ---
 
 ### [Olimpíada Matemática Argentina](https://www.oma.org.ar/)
-
-
+<br/><br/>
 <p align="center">
 <img src="/others/logo-oma.gif"  width="150" height="150"/>
 </p>
@@ -20,8 +19,7 @@ deputy leader of the Argentinian team in the Ibero-American Mathematics Olympiad
 --- 
 
 ### [MateClubes](https://www.oma.org.ar/mateclubes/index.php)
-
-
+<br/><br/>
 <p align="center">
 <img src="/others/logo400.png"  width="200" height="135.5 "/>
 </p>
@@ -35,8 +33,7 @@ for students between 9 and 16 years old. The Committee elaborates the test of al
 
 
 ### [Monikulttuurikeskus Gloria](https://www.gloriajkl.fi/)
-
-
+<br/><br/>
 <p align="center">
 <img src="/others/gloria_logo.png"/>
 </p>
