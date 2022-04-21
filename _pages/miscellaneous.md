@@ -25,7 +25,7 @@ deputy leader of the Argentinian team in the Ibero-American Mathematics Olympiad
 <br/>
 Since 2008, I have been a member of the Olympic Committee of MateClubes, an annual team competition organized by the Argentinian Mathematics Olympiad 
 for students between 9 and 16 years old. The Committee elaborates the test of all instances and acts as a jury. I also participated in the writing of two 
-[Mateclubes books](https://www.oma.org.ar/mateclubes/index.php/info/bibliografia), that include a compilation of mathematical problems and the corresponding solutions. 
+[MateClubes books](https://www.oma.org.ar/mateclubes/index.php/info/bibliografia), that include a compilation of mathematical problems and the corresponding solutions. 
 
 --- 
 
@@ -36,5 +36,5 @@ for students between 9 and 16 years old. The Committee elaborates the test of al
 <img src="/others/gloria_logo.png"/>
 </p>
 <br/>
-Multicultural Center Gloria is a great place for different people and cultures to meet. Gloria organises multicultural activities for all the citizens of Jyväskylä, Finland. During my time living in Finland, I attended the center both as a participant and as a volunteer. I collaborated in the organization of the language café and as a language guide in the Spanish Learning Group.
+Multicultural Center Gloria is a great place for different people and cultures to meet, in Jyväskylä, Finland. Several multicultural activities are organized. During my time living in Finland, I attended the center both as a participant and as a volunteer. I collaborated in the organization of the language café and as a language guide in the Spanish Learning Group.
 
