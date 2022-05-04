@@ -5,13 +5,7 @@ main:
   - title: "Projects"
     url: /Projects/
   - title: "Resume"
+    url:/others/resume.pdf 
   - title: "Miscellaneous"
     url: /Miscellaneous/
-  # url: /assets/docs/resume-kbosko.pdf  
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+ 
