@@ -12,7 +12,7 @@ author_profile: true
 <img src="/others/logo-oma.gif"  width="150" height="150"/>
 </p>
 <br/>
-During my school years, I participated in the Argentinian Mathematics Olympiad (OMA), a fantastic experience where I discovered the pleasure of solving problems. After high school, I've been collaborated in various activities. I was a member of the jury in the national competition from 2014 to 2018 and
+During my school years, I participated in the Argentinian Mathematics Olympiad (OMA), a fantastic experience where I discovered the pleasure of solving problems. After high school, I've been collaborating in various activities. I was a member of the jury in the national competition from 2014 to 2018 and
 deputy leader of the Argentinian team in the Ibero-American Mathematics Olympiad of 2017, among others.
 
 --- 
