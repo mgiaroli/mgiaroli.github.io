@@ -16,9 +16,9 @@ author_profile: true
 In my research, I applied and developed algebraic and geometric tools for the study of multistationarity in biochemical networks and, more generally,
 positive solutions of sparse polynomial systems.  
 
-I published, in collaboration with other researchers, 4 scientific articles in high impact peer-reviewed journals, and presented my research in national and international conferences. 
+I published, in collaboration with other researchers, 4 scientific articles in high-impact peer-reviewed journals, and presented my research at national and international conferences. 
 
-[Phd thesis](/others/thesis-mgiaroli.pdf)
+[Ph.D. thesis](/others/thesis-mgiaroli.pdf)
 
 [List of Publications in Google Scholar](https://scholar.google.com/citations?user=QM19jOYAAAAJ)  
 
