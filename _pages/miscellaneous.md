@@ -25,7 +25,7 @@ deputy leader of the Argentinian team in the Ibero-American Mathematics Olympiad
 <br/>
 Since 2008, I have been a member of the Olympic Committee of MateClubes, an annual team competition organized by the Argentinian Mathematics Olympiad 
 for students between 9 and 16 years old. The Committee elaborates the test of all instances and acts as a jury. I also participated in the writing of two 
-[MateClubes books](https://www.oma.org.ar/mateclubes/index.php/info/bibliografia), that include a compilation of mathematical problems and the corresponding solutions. 
+[MateClubes books](https://www.oma.org.ar/mateclubes/index.php/info/bibliografia), which include a compilation of mathematical problems and the corresponding solutions. 
 
 --- 
 
